@@ -8,7 +8,7 @@ Exemple de carte généré : https://raw.github.com/Oros42/proxy_spider/master/n
 Notes
 =====
 proxy_spider ne parcours que les liens qui pointent sur d'autres sites.  
-Il ne parcours pas les liens d'un même site.
+Il ne parcourt pas les liens d'un même site.
 
 
 Étape 1
