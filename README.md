@@ -3,6 +3,14 @@ proxy_spider
 
 Cartographie de sites web en passant par un proxy comme Tor. 
 
+Exemple de carte généré : https://raw.github.com/Oros42/proxy_spider/master/network.png
+
+Notes
+=====
+proxy_spider ne parcours que les liens qui pointent sur d'autres sites.  
+Il ne parcours pas les liens d'un même site.
+
+
 Étape 1
 =======
 
